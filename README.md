@@ -12,7 +12,7 @@ Comecei estudar programação em 2020 por hobbie e por vocação a área. Em 202
 
 <div>
  <a href="https://www.linkedin.com/in/mmessiasdev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/linkedin-20232A?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
-  <a href="https://www.linkedin.com/in/mmessiasdev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.instagram.com/mmessiasdev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram" alt="Instagram"></a>
   <a href="http://api.whatsapp.com/send?phone=5577991057040" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=whatsapp"></a>
   <a href="https://www.youtube.com/channel/UCHSrdW4QVmr-CjVW3KP2FAw" target="_blank"><img src="https://img.shields.io/badge/YouTube-20232A?style=for-the-badge&logo=youtube"></a>
 </div>
