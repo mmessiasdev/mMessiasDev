@@ -68,4 +68,4 @@ Tecnologias:
 
 ![Snake Animation](https://github.com/ErykTavares/ErykTavares/blob/output/github-contribution-grid-snake.svg)
 
-###### **Copyright M. Messias © 2023**
+###### **Copyright M. Messias © 2025**
