@@ -4,7 +4,7 @@
 
 # M. Messias
 
-### Desenvolvedor de Software Full Stack, com especialização em front end.
+### Desenvolvedor de Software Full Stack.
 
 Comecei estudar programação em 2020 por hobbie e por vocação a área. Em 2021, decidi focar por completo e me desenvolvi em React, Flutter e com conhecimento em banco de dados relacional, Firebase e AWS...
 
